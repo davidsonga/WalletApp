@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">moneyapp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="default_web_client_id">1093227178732-lqs4l3g99tor4eh1dbp912ok5vci3vcb.apps.googleusercontent.com</string>
+
+
+    ///---------------------------------------------------------- LoginActivity texts
+    values------------------------------------------------------///
+
+    <string name="LoginXml">Login</string>
+    <string name="PasswordXml">Password</string>
+    <string name="EmailXml">Email</string>
+    <string name="LoginInXml">Log in</string>
+    <string name="EnterEmailXml">Enter your email</string>
+    <string name="EnterPasswordXml">Enter your password</string>
+    <string name="Sign_in_txt_Xml">Sign in to continue</string>
+    <string name="ForgotpwXml">Forgot password</string>
+    <string name="SignUppwXml">Register account here</string>
+
+    ///----------------------------------------------------------
+    End------------------------------------------------------------------------------///
+
+
+    ///----------------------------------------------------------RegisterActivity texts
+    values------------------------------------------------------///
+    <string name="NameXml">Name</string>
+    <string name="EnterNameXml">Enter name</string>
+    <string name="Sign_up_txt_Xml">Sign up</string>
+    <string name="ReturnLoginXml">Already Registered? Log in here</string>
+    <string name="WelcomeTitle1Xml">Create new</string>
+    <string name="WelcomeTitle2Xml">Account</string>
+    ///----------------------------------------------------------
+    End------------------------------------------------------------------------------///
+
+
+    ///---------------------------------------------------------- ForgetPasswordAcitity texts
+    values-----------------------------------------------///
+    <string name="ForgotPasswordXml">Forget Password</string>
+    <string name="NewPasswordXml">New Password</string>
+    <string name="SendXml">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    ///----------------------------------------------------------
+    End------------------------------------------------------------------------------///
+
+
+</resources>
